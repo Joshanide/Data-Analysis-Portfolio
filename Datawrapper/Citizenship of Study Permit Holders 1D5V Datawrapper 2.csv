@@ -1,0 +1,1941 @@
+Code,Region,Income group,Country of citizenship,Yearly Total,Year
+ABW,Latin America & Caribbean,High income,Aruba,0,2015
+BMU,North America,High income,Bermuda,0,2015
+CYM,Latin America & Caribbean,High income,Cayman Islands,0,2015
+LIE,Europe & Central Asia,High income,Liechtenstein,0,2015
+PYF,East Asia & Pacific,High income,French Polynesia,0,2015
+SXM,Latin America & Caribbean,High income,Sint-Maarten,0,2015
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,0,2015
+COM,Sub-Saharan Africa,Lower middle income,Comoros,5,2015
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",5,2015
+MCO,Europe & Central Asia,High income,Monaco,5,2015
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,5,2015
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,5,2015
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",5,2015
+SYC,Sub-Saharan Africa,High income,Seychelles,5,2015
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,5,2015
+BRN,East Asia & Pacific,High income,Brunei,10,2015
+BTN,South Asia,Lower middle income,Bhutan,10,2015
+DMA,Latin America & Caribbean,Upper middle income,Dominica,10,2015
+GEO,Europe & Central Asia,Upper middle income,Georgia,10,2015
+LBR,Sub-Saharan Africa,Low income,Liberia,10,2015
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",10,2015
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,10,2015
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,10,2015
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",10,2015
+SUR,Latin America & Caribbean,Upper middle income,Surinam,10,2015
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,10,2015
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,10,2015
+URY,Latin America & Caribbean,High income,Uruguay,10,2015
+ARM,Europe & Central Asia,Upper middle income,Armenia,15,2015
+CYP,Europe & Central Asia,High income,Cyprus,15,2015
+EST,Europe & Central Asia,High income,Estonia,15,2015
+FJI,East Asia & Pacific,Upper middle income,Fiji,15,2015
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,15,2015
+LAO,East Asia & Pacific,Lower middle income,Laos,15,2015
+MKD,Europe & Central Asia,Upper middle income,Macedonia,15,2015
+MOZ,Sub-Saharan Africa,Low income,Mozambique,15,2015
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,15,2015
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,20,2015
+MWI,Sub-Saharan Africa,Low income,Malawi,20,2015
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,20,2015
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,20,2015
+CAF,Sub-Saharan Africa,Low income,Central African Republic,25,2015
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",25,2015
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),25,2015
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",25,2015
+SVN,Europe & Central Asia,High income,Slovenia,25,2015
+,,,Other,25,2015
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,30,2015
+GRD,Latin America & Caribbean,Upper middle income,Grenada,30,2015
+LVA,Europe & Central Asia,High income,Latvia,30,2015
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,30,2015
+,,,Country of Citizenship not stated,30,2015
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,35,2015
+LUX,Europe & Central Asia,High income,Luxembourg,35,2015
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,35,2015
+BGR,Europe & Central Asia,High income,Bulgaria,40,2015
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,40,2015
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",40,2015
+BLR,Europe & Central Asia,Upper middle income,Belarus,45,2015
+ISL,Europe & Central Asia,High income,Iceland,45,2015
+MDA,Europe & Central Asia,Upper middle income,Moldova,45,2015
+GMB,Sub-Saharan Africa,Low income,Gambia,50,2015
+LTU,Europe & Central Asia,High income,Lithuania,50,2015
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,55,2015
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,55,2015
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",55,2015
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,55,2015
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",55,2015
+BLZ,Latin America & Caribbean,Upper middle income,Belize,60,2015
+AGO,Sub-Saharan Africa,Lower middle income,Angola,65,2015
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,65,2015
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,70,2015
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",70,2015
+CRI,Latin America & Caribbean,High income,Costa Rica,75,2015
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,75,2015
+HND,Latin America & Caribbean,Lower middle income,Honduras,75,2015
+,,,Stateless,75,2015
+CUB,Latin America & Caribbean,Upper middle income,Cuba,80,2015
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),80,2015
+ERI,Sub-Saharan Africa,Low income,Eritrea,85,2015
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,85,2015
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,85,2015
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,90,2015
+HRV,Europe & Central Asia,High income,Croatia,90,2015
+FIN,Europe & Central Asia,High income,Finland,95,2015
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",95,2015
+DNK,Europe & Central Asia,High income,Denmark,100,2015
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",100,2015
+AUT,Europe & Central Asia,High income,Austria,105,2015
+HUN,Europe & Central Asia,High income,Hungary,105,2015
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",105,2015
+NZL,East Asia & Pacific,High income,New Zealand,105,2015
+ALB,Europe & Central Asia,Upper middle income,Albania,110,2015
+CZE,Europe & Central Asia,High income,Czech Republic,110,2015
+GUY,Latin America & Caribbean,High income,Guyana,115,2015
+MDG,Sub-Saharan Africa,Low income,Madagascar,115,2015
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",115,2015
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,120,2015
+KHM,East Asia & Pacific,Lower middle income,Cambodia,120,2015
+ROU,Europe & Central Asia,High income,Romania,120,2015
+SVK,Europe & Central Asia,High income,Slovak Republic,120,2015
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,120,2015
+GRC,Europe & Central Asia,High income,Greece,130,2015
+BDI,Sub-Saharan Africa,Low income,Burundi,135,2015
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,135,2015
+ARG,Latin America & Caribbean,Upper middle income,Argentina,150,2015
+ETH,Sub-Saharan Africa,,Ethiopia,150,2015
+NPL,South Asia,Lower middle income,Nepal,150,2015
+UGA,Sub-Saharan Africa,Low income,Uganda,155,2015
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",160,2015
+NOR,Europe & Central Asia,High income,Norway,165,2015
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,165,2015
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,170,2015
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,170,2015
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",175,2015
+POL,Europe & Central Asia,High income,Poland,175,2015
+BRB,Latin America & Caribbean,High income,Barbados,185,2015
+MAC,East Asia & Pacific,High income,Macau SAR,190,2015
+SWE,Europe & Central Asia,High income,Sweden,200,2015
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,210,2015
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",215,2015
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",225,2015
+RWA,Sub-Saharan Africa,Low income,Rwanda,225,2015
+PRT,Europe & Central Asia,High income,Portugal,255,2015
+NLD,Europe & Central Asia,High income,"Netherlands, The",275,2015
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,280,2015
+PER,Latin America & Caribbean,Upper middle income,Peru,285,2015
+LKA,South Asia,Lower middle income,Sri Lanka,290,2015
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",290,2015
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",295,2015
+BEL,Europe & Central Asia,High income,Belgium,305,2015
+SGP,East Asia & Pacific,High income,Singapore,305,2015
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",315,2015
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,330,2015
+CHL,Latin America & Caribbean,High income,Chile,345,2015
+HTI,Latin America & Caribbean,Lower middle income,Haiti,350,2015
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,355,2015
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",360,2015
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,375,2015
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,380,2015
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,395,2015
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",400,2015
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,405,2015
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,430,2015
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",440,2015
+CHE,Europe & Central Asia,High income,Switzerland,455,2015
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",455,2015
+AUS,East Asia & Pacific,High income,Australia,465,2015
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,475,2015
+MYS,East Asia & Pacific,Upper middle income,Malaysia,600,2015
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",630,2015
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",740,2015
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,740,2015
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,785,2015
+THA,East Asia & Pacific,Upper middle income,Thailand,785,2015
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,800,2015
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,960,2015
+ITA,Europe & Central Asia,High income,Italy,1005,2015
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,1030,2015
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",1055,2015
+ESP,Europe & Central Asia,High income,Spain,1085,2015
+COL,Latin America & Caribbean,Upper middle income,Colombia,1295,2015
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,1345,2015
+BGD,South Asia,Lower middle income,Bangladesh,1365,2015
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,1365,2015
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,1455,2015
+UKR,Europe & Central Asia,Upper middle income,Ukraine,1455,2015
+RUS,Europe & Central Asia,High income,Russia,1510,2015
+VEN,Latin America & Caribbean,,Venezuela,1510,2015
+TUR,Europe & Central Asia,Upper middle income,Turkey,1615,2015
+PHL,East Asia & Pacific,Lower middle income,Philippines,1880,2015
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,2030,2015
+DEU,Europe & Central Asia,High income,Germany,2035,2015
+HKG,East Asia & Pacific,High income,Hong Kong SAR,2095,2015
+TWN,East Asia & Pacific,High income,Taiwan,2245,2015
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,2315,2015
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,2340,2015
+VNM,East Asia & Pacific,Lower middle income,Vietnam,2830,2015
+MEX,Latin America & Caribbean,Upper middle income,Mexico,4225,2015
+USA,North America,High income,United States of America,5660,2015
+JPN,East Asia & Pacific,High income,Japan,6040,2015
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,6320,2015
+BRA,Latin America & Caribbean,Upper middle income,Brazil,6345,2015
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,7655,2015
+FRA,Europe & Central Asia,High income,France,11855,2015
+KOR,East Asia & Pacific,High income,"Korea, Republic of",14735,2015
+IND,South Asia,Lower middle income,India,31920,2015
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",65860,2015
+AND,Europe & Central Asia,High income,Andorra,--,2015
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,--,2015
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,--,2015
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,--,2015
+MDV,South Asia,Upper middle income,"Maldives, Republic of",--,2015
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,--,2015
+ABW,Latin America & Caribbean,High income,Aruba,0,2016
+BMU,North America,High income,Bermuda,0,2016
+CYM,Latin America & Caribbean,High income,Cayman Islands,0,2016
+LIE,Europe & Central Asia,High income,Liechtenstein,--,2016
+PYF,East Asia & Pacific,High income,French Polynesia,0,2016
+SXM,Latin America & Caribbean,High income,Sint-Maarten,0,2016
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,0,2016
+COM,Sub-Saharan Africa,Lower middle income,Comoros,5,2016
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",10,2016
+MCO,Europe & Central Asia,High income,Monaco,--,2016
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,10,2016
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,10,2016
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",10,2016
+SYC,Sub-Saharan Africa,High income,Seychelles,10,2016
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,10,2016
+BRN,East Asia & Pacific,High income,Brunei,10,2016
+BTN,South Asia,Lower middle income,Bhutan,25,2016
+DMA,Latin America & Caribbean,Upper middle income,Dominica,25,2016
+GEO,Europe & Central Asia,Upper middle income,Georgia,15,2016
+LBR,Sub-Saharan Africa,Low income,Liberia,10,2016
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",--,2016
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,15,2016
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,15,2016
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",5,2016
+SUR,Latin America & Caribbean,Upper middle income,Surinam,10,2016
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,10,2016
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,10,2016
+URY,Latin America & Caribbean,High income,Uruguay,15,2016
+ARM,Europe & Central Asia,Upper middle income,Armenia,30,2016
+CYP,Europe & Central Asia,High income,Cyprus,10,2016
+EST,Europe & Central Asia,High income,Estonia,30,2016
+FJI,East Asia & Pacific,Upper middle income,Fiji,25,2016
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,40,2016
+LAO,East Asia & Pacific,Lower middle income,Laos,15,2016
+MKD,Europe & Central Asia,Upper middle income,Macedonia,30,2016
+MOZ,Sub-Saharan Africa,Low income,Mozambique,5,2016
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,35,2016
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,20,2016
+MWI,Sub-Saharan Africa,Low income,Malawi,30,2016
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,20,2016
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,25,2016
+CAF,Sub-Saharan Africa,Low income,Central African Republic,35,2016
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",35,2016
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),30,2016
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",80,2016
+SVN,Europe & Central Asia,High income,Slovenia,20,2016
+,,,Other,30,2016
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,40,2016
+GRD,Latin America & Caribbean,Upper middle income,Grenada,40,2016
+LVA,Europe & Central Asia,High income,Latvia,35,2016
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,35,2016
+,,,Country of Citizenship not stated,--,2016
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,35,2016
+LUX,Europe & Central Asia,High income,Luxembourg,35,2016
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,40,2016
+BGR,Europe & Central Asia,High income,Bulgaria,60,2016
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,35,2016
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",45,2016
+BLR,Europe & Central Asia,Upper middle income,Belarus,50,2016
+ISL,Europe & Central Asia,High income,Iceland,40,2016
+MDA,Europe & Central Asia,Upper middle income,Moldova,45,2016
+GMB,Sub-Saharan Africa,Low income,Gambia,60,2016
+LTU,Europe & Central Asia,High income,Lithuania,40,2016
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,40,2016
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,55,2016
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",60,2016
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,60,2016
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",80,2016
+BLZ,Latin America & Caribbean,Upper middle income,Belize,85,2016
+AGO,Sub-Saharan Africa,Lower middle income,Angola,75,2016
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,75,2016
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,105,2016
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",95,2016
+CRI,Latin America & Caribbean,High income,Costa Rica,85,2016
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,70,2016
+HND,Latin America & Caribbean,Lower middle income,Honduras,125,2016
+,,,Stateless,80,2016
+CUB,Latin America & Caribbean,Upper middle income,Cuba,70,2016
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),110,2016
+ERI,Sub-Saharan Africa,Low income,Eritrea,115,2016
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,85,2016
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,70,2016
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,105,2016
+HRV,Europe & Central Asia,High income,Croatia,85,2016
+FIN,Europe & Central Asia,High income,Finland,120,2016
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",100,2016
+DNK,Europe & Central Asia,High income,Denmark,105,2016
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",105,2016
+AUT,Europe & Central Asia,High income,Austria,150,2016
+HUN,Europe & Central Asia,High income,Hungary,115,2016
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",115,2016
+NZL,East Asia & Pacific,High income,New Zealand,125,2016
+ALB,Europe & Central Asia,Upper middle income,Albania,155,2016
+CZE,Europe & Central Asia,High income,Czech Republic,135,2016
+GUY,Latin America & Caribbean,High income,Guyana,175,2016
+MDG,Sub-Saharan Africa,Low income,Madagascar,170,2016
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",160,2016
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,145,2016
+KHM,East Asia & Pacific,Lower middle income,Cambodia,100,2016
+ROU,Europe & Central Asia,High income,Romania,115,2016
+SVK,Europe & Central Asia,High income,Slovak Republic,155,2016
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,115,2016
+GRC,Europe & Central Asia,High income,Greece,175,2016
+BDI,Sub-Saharan Africa,Low income,Burundi,255,2016
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,145,2016
+ARG,Latin America & Caribbean,Upper middle income,Argentina,175,2016
+ETH,Sub-Saharan Africa,,Ethiopia,210,2016
+NPL,South Asia,Lower middle income,Nepal,215,2016
+UGA,Sub-Saharan Africa,Low income,Uganda,250,2016
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",155,2016
+NOR,Europe & Central Asia,High income,Norway,160,2016
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,200,2016
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,225,2016
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,210,2016
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",290,2016
+POL,Europe & Central Asia,High income,Poland,190,2016
+BRB,Latin America & Caribbean,High income,Barbados,230,2016
+MAC,East Asia & Pacific,High income,Macau SAR,195,2016
+SWE,Europe & Central Asia,High income,Sweden,200,2016
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,185,2016
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",215,2016
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",230,2016
+RWA,Sub-Saharan Africa,Low income,Rwanda,335,2016
+PRT,Europe & Central Asia,High income,Portugal,260,2016
+NLD,Europe & Central Asia,High income,"Netherlands, The",330,2016
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,410,2016
+PER,Latin America & Caribbean,Upper middle income,Peru,395,2016
+LKA,South Asia,Lower middle income,Sri Lanka,400,2016
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",330,2016
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",255,2016
+BEL,Europe & Central Asia,High income,Belgium,415,2016
+SGP,East Asia & Pacific,High income,Singapore,275,2016
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",360,2016
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,490,2016
+CHL,Latin America & Caribbean,High income,Chile,430,2016
+HTI,Latin America & Caribbean,Lower middle income,Haiti,445,2016
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,350,2016
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",410,2016
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,430,2016
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,505,2016
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,525,2016
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",380,2016
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,475,2016
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,670,2016
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",680,2016
+CHE,Europe & Central Asia,High income,Switzerland,440,2016
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",550,2016
+AUS,East Asia & Pacific,High income,Australia,470,2016
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,585,2016
+MYS,East Asia & Pacific,Upper middle income,Malaysia,635,2016
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",675,2016
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",820,2016
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,705,2016
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,855,2016
+THA,East Asia & Pacific,Upper middle income,Thailand,800,2016
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,1035,2016
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,800,2016
+ITA,Europe & Central Asia,High income,Italy,1390,2016
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,1130,2016
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",1095,2016
+ESP,Europe & Central Asia,High income,Spain,1405,2016
+COL,Latin America & Caribbean,Upper middle income,Colombia,1675,2016
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,1680,2016
+BGD,South Asia,Lower middle income,Bangladesh,1795,2016
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,965,2016
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,1495,2016
+UKR,Europe & Central Asia,Upper middle income,Ukraine,1910,2016
+RUS,Europe & Central Asia,High income,Russia,1495,2016
+VEN,Latin America & Caribbean,,Venezuela,1410,2016
+TUR,Europe & Central Asia,Upper middle income,Turkey,2215,2016
+PHL,East Asia & Pacific,Lower middle income,Philippines,2895,2016
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,2215,2016
+DEU,Europe & Central Asia,High income,Germany,2220,2016
+HKG,East Asia & Pacific,High income,Hong Kong SAR,2355,2016
+TWN,East Asia & Pacific,High income,Taiwan,2650,2016
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,2545,2016
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,2960,2016
+VNM,East Asia & Pacific,Lower middle income,Vietnam,5320,2016
+MEX,Latin America & Caribbean,Upper middle income,Mexico,4905,2016
+USA,North America,High income,United States of America,6225,2016
+JPN,East Asia & Pacific,High income,Japan,6685,2016
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,6160,2016
+BRA,Latin America & Caribbean,Upper middle income,Brazil,7295,2016
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,5480,2016
+FRA,Europe & Central Asia,High income,France,11825,2016
+KOR,East Asia & Pacific,High income,"Korea, Republic of",15935,2016
+IND,South Asia,Lower middle income,India,52620,2016
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",76840,2016
+AND,Europe & Central Asia,High income,Andorra,--,2016
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,5,2016
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,0,2016
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,5,2016
+MDV,South Asia,Upper middle income,"Maldives, Republic of",5,2016
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,--,2016
+ABW,Latin America & Caribbean,High income,Aruba,0,2017
+BMU,North America,High income,Bermuda,0,2017
+CYM,Latin America & Caribbean,High income,Cayman Islands,0,2017
+LIE,Europe & Central Asia,High income,Liechtenstein,5,2017
+PYF,East Asia & Pacific,High income,French Polynesia,0,2017
+SXM,Latin America & Caribbean,High income,Sint-Maarten,0,2017
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,0,2017
+COM,Sub-Saharan Africa,Lower middle income,Comoros,10,2017
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",25,2017
+MCO,Europe & Central Asia,High income,Monaco,--,2017
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,--,2017
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,10,2017
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",10,2017
+SYC,Sub-Saharan Africa,High income,Seychelles,--,2017
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,20,2017
+BRN,East Asia & Pacific,High income,Brunei,15,2017
+BTN,South Asia,Lower middle income,Bhutan,35,2017
+DMA,Latin America & Caribbean,Upper middle income,Dominica,35,2017
+GEO,Europe & Central Asia,Upper middle income,Georgia,20,2017
+LBR,Sub-Saharan Africa,Low income,Liberia,10,2017
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",--,2017
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,15,2017
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,30,2017
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",15,2017
+SUR,Latin America & Caribbean,Upper middle income,Surinam,15,2017
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,10,2017
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,10,2017
+URY,Latin America & Caribbean,High income,Uruguay,30,2017
+ARM,Europe & Central Asia,Upper middle income,Armenia,20,2017
+CYP,Europe & Central Asia,High income,Cyprus,10,2017
+EST,Europe & Central Asia,High income,Estonia,15,2017
+FJI,East Asia & Pacific,Upper middle income,Fiji,25,2017
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,55,2017
+LAO,East Asia & Pacific,Lower middle income,Laos,15,2017
+MKD,Europe & Central Asia,Upper middle income,Macedonia,15,2017
+MOZ,Sub-Saharan Africa,Low income,Mozambique,10,2017
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,30,2017
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,15,2017
+MWI,Sub-Saharan Africa,Low income,Malawi,25,2017
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,15,2017
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,30,2017
+CAF,Sub-Saharan Africa,Low income,Central African Republic,40,2017
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",35,2017
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),35,2017
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",85,2017
+SVN,Europe & Central Asia,High income,Slovenia,20,2017
+,,,Other,40,2017
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,45,2017
+GRD,Latin America & Caribbean,Upper middle income,Grenada,40,2017
+LVA,Europe & Central Asia,High income,Latvia,40,2017
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,25,2017
+,,,Country of Citizenship not stated,--,2017
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,45,2017
+LUX,Europe & Central Asia,High income,Luxembourg,30,2017
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,50,2017
+BGR,Europe & Central Asia,High income,Bulgaria,40,2017
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,60,2017
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",20,2017
+BLR,Europe & Central Asia,Upper middle income,Belarus,40,2017
+ISL,Europe & Central Asia,High income,Iceland,45,2017
+MDA,Europe & Central Asia,Upper middle income,Moldova,45,2017
+GMB,Sub-Saharan Africa,Low income,Gambia,50,2017
+LTU,Europe & Central Asia,High income,Lithuania,50,2017
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,40,2017
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,50,2017
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",65,2017
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,60,2017
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",40,2017
+BLZ,Latin America & Caribbean,Upper middle income,Belize,80,2017
+AGO,Sub-Saharan Africa,Lower middle income,Angola,35,2017
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,95,2017
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,125,2017
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",140,2017
+CRI,Latin America & Caribbean,High income,Costa Rica,115,2017
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,80,2017
+HND,Latin America & Caribbean,Lower middle income,Honduras,130,2017
+,,,Stateless,110,2017
+CUB,Latin America & Caribbean,Upper middle income,Cuba,75,2017
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),120,2017
+ERI,Sub-Saharan Africa,Low income,Eritrea,220,2017
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,90,2017
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,65,2017
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,85,2017
+HRV,Europe & Central Asia,High income,Croatia,60,2017
+FIN,Europe & Central Asia,High income,Finland,120,2017
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",120,2017
+DNK,Europe & Central Asia,High income,Denmark,105,2017
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",140,2017
+AUT,Europe & Central Asia,High income,Austria,120,2017
+HUN,Europe & Central Asia,High income,Hungary,100,2017
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",80,2017
+NZL,East Asia & Pacific,High income,New Zealand,105,2017
+ALB,Europe & Central Asia,Upper middle income,Albania,175,2017
+CZE,Europe & Central Asia,High income,Czech Republic,150,2017
+GUY,Latin America & Caribbean,High income,Guyana,200,2017
+MDG,Sub-Saharan Africa,Low income,Madagascar,175,2017
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",130,2017
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,145,2017
+KHM,East Asia & Pacific,Lower middle income,Cambodia,70,2017
+ROU,Europe & Central Asia,High income,Romania,135,2017
+SVK,Europe & Central Asia,High income,Slovak Republic,135,2017
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,120,2017
+GRC,Europe & Central Asia,High income,Greece,190,2017
+BDI,Sub-Saharan Africa,Low income,Burundi,255,2017
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,165,2017
+ARG,Latin America & Caribbean,Upper middle income,Argentina,190,2017
+ETH,Sub-Saharan Africa,,Ethiopia,255,2017
+NPL,South Asia,Lower middle income,Nepal,340,2017
+UGA,Sub-Saharan Africa,Low income,Uganda,275,2017
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",130,2017
+NOR,Europe & Central Asia,High income,Norway,170,2017
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,250,2017
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,230,2017
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,270,2017
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",280,2017
+POL,Europe & Central Asia,High income,Poland,170,2017
+BRB,Latin America & Caribbean,High income,Barbados,230,2017
+MAC,East Asia & Pacific,High income,Macau SAR,190,2017
+SWE,Europe & Central Asia,High income,Sweden,220,2017
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,245,2017
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",315,2017
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",205,2017
+RWA,Sub-Saharan Africa,Low income,Rwanda,450,2017
+PRT,Europe & Central Asia,High income,Portugal,295,2017
+NLD,Europe & Central Asia,High income,"Netherlands, The",350,2017
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,450,2017
+PER,Latin America & Caribbean,Upper middle income,Peru,495,2017
+LKA,South Asia,Lower middle income,Sri Lanka,445,2017
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",355,2017
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",265,2017
+BEL,Europe & Central Asia,High income,Belgium,410,2017
+SGP,East Asia & Pacific,High income,Singapore,310,2017
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",375,2017
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,435,2017
+CHL,Latin America & Caribbean,High income,Chile,465,2017
+HTI,Latin America & Caribbean,Lower middle income,Haiti,425,2017
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,370,2017
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",405,2017
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,460,2017
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,610,2017
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,640,2017
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",350,2017
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,490,2017
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,790,2017
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",775,2017
+CHE,Europe & Central Asia,High income,Switzerland,535,2017
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",460,2017
+AUS,East Asia & Pacific,High income,Australia,480,2017
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,630,2017
+MYS,East Asia & Pacific,Upper middle income,Malaysia,645,2017
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",720,2017
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",945,2017
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,705,2017
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,880,2017
+THA,East Asia & Pacific,Upper middle income,Thailand,830,2017
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,1250,2017
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,965,2017
+ITA,Europe & Central Asia,High income,Italy,1430,2017
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,1170,2017
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",1025,2017
+ESP,Europe & Central Asia,High income,Spain,1590,2017
+COL,Latin America & Caribbean,Upper middle income,Colombia,2375,2017
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,1525,2017
+BGD,South Asia,Lower middle income,Bangladesh,2825,2017
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,755,2017
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,1700,2017
+UKR,Europe & Central Asia,Upper middle income,Ukraine,1845,2017
+RUS,Europe & Central Asia,High income,Russia,1440,2017
+VEN,Latin America & Caribbean,,Venezuela,1185,2017
+TUR,Europe & Central Asia,Upper middle income,Turkey,2955,2017
+PHL,East Asia & Pacific,Lower middle income,Philippines,2750,2017
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,2280,2017
+DEU,Europe & Central Asia,High income,Germany,2210,2017
+HKG,East Asia & Pacific,High income,Hong Kong SAR,2440,2017
+TWN,East Asia & Pacific,High income,Taiwan,2845,2017
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,2040,2017
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,4675,2017
+VNM,East Asia & Pacific,Lower middle income,Vietnam,9865,2017
+MEX,Latin America & Caribbean,Upper middle income,Mexico,5435,2017
+USA,North America,High income,United States of America,6925,2017
+JPN,East Asia & Pacific,High income,Japan,6530,2017
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,5945,2017
+BRA,Latin America & Caribbean,Upper middle income,Brazil,8865,2017
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,5080,2017
+FRA,Europe & Central Asia,High income,France,13220,2017
+KOR,East Asia & Pacific,High income,"Korea, Republic of",16695,2017
+IND,South Asia,Lower middle income,India,82935,2017
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",82685,2017
+AND,Europe & Central Asia,High income,Andorra,--,2017
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,--,2017
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,5,2017
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,--,2017
+MDV,South Asia,Upper middle income,"Maldives, Republic of",--,2017
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,--,2017
+ABW,Latin America & Caribbean,High income,Aruba,--,2018
+BMU,North America,High income,Bermuda,--,2018
+CYM,Latin America & Caribbean,High income,Cayman Islands,0,2018
+LIE,Europe & Central Asia,High income,Liechtenstein,--,2018
+PYF,East Asia & Pacific,High income,French Polynesia,--,2018
+SXM,Latin America & Caribbean,High income,Sint-Maarten,--,2018
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,--,2018
+COM,Sub-Saharan Africa,Lower middle income,Comoros,15,2018
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",10,2018
+MCO,Europe & Central Asia,High income,Monaco,--,2018
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,--,2018
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,10,2018
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",5,2018
+SYC,Sub-Saharan Africa,High income,Seychelles,--,2018
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,20,2018
+BRN,East Asia & Pacific,High income,Brunei,15,2018
+BTN,South Asia,Lower middle income,Bhutan,30,2018
+DMA,Latin America & Caribbean,Upper middle income,Dominica,60,2018
+GEO,Europe & Central Asia,Upper middle income,Georgia,10,2018
+LBR,Sub-Saharan Africa,Low income,Liberia,--,2018
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",--,2018
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,15,2018
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,30,2018
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",5,2018
+SUR,Latin America & Caribbean,Upper middle income,Surinam,5,2018
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,10,2018
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,20,2018
+URY,Latin America & Caribbean,High income,Uruguay,35,2018
+ARM,Europe & Central Asia,Upper middle income,Armenia,20,2018
+CYP,Europe & Central Asia,High income,Cyprus,10,2018
+EST,Europe & Central Asia,High income,Estonia,20,2018
+FJI,East Asia & Pacific,Upper middle income,Fiji,20,2018
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,60,2018
+LAO,East Asia & Pacific,Lower middle income,Laos,10,2018
+MKD,Europe & Central Asia,Upper middle income,Macedonia,20,2018
+MOZ,Sub-Saharan Africa,Low income,Mozambique,15,2018
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,30,2018
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,25,2018
+MWI,Sub-Saharan Africa,Low income,Malawi,25,2018
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,15,2018
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,40,2018
+CAF,Sub-Saharan Africa,Low income,Central African Republic,30,2018
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",50,2018
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),40,2018
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",70,2018
+SVN,Europe & Central Asia,High income,Slovenia,25,2018
+,,,Other,10,2018
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,35,2018
+GRD,Latin America & Caribbean,Upper middle income,Grenada,35,2018
+LVA,Europe & Central Asia,High income,Latvia,30,2018
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,25,2018
+,,,Country of Citizenship not stated,0,2018
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,50,2018
+LUX,Europe & Central Asia,High income,Luxembourg,20,2018
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,25,2018
+BGR,Europe & Central Asia,High income,Bulgaria,60,2018
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,65,2018
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",40,2018
+BLR,Europe & Central Asia,Upper middle income,Belarus,50,2018
+ISL,Europe & Central Asia,High income,Iceland,35,2018
+MDA,Europe & Central Asia,Upper middle income,Moldova,55,2018
+GMB,Sub-Saharan Africa,Low income,Gambia,65,2018
+LTU,Europe & Central Asia,High income,Lithuania,40,2018
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,45,2018
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,95,2018
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",45,2018
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,70,2018
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",70,2018
+BLZ,Latin America & Caribbean,Upper middle income,Belize,80,2018
+AGO,Sub-Saharan Africa,Lower middle income,Angola,30,2018
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,90,2018
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,125,2018
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",145,2018
+CRI,Latin America & Caribbean,High income,Costa Rica,110,2018
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,90,2018
+HND,Latin America & Caribbean,Lower middle income,Honduras,170,2018
+,,,Stateless,110,2018
+CUB,Latin America & Caribbean,Upper middle income,Cuba,85,2018
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),140,2018
+ERI,Sub-Saharan Africa,Low income,Eritrea,150,2018
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,100,2018
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,80,2018
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,75,2018
+HRV,Europe & Central Asia,High income,Croatia,60,2018
+FIN,Europe & Central Asia,High income,Finland,115,2018
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",105,2018
+DNK,Europe & Central Asia,High income,Denmark,110,2018
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",395,2018
+AUT,Europe & Central Asia,High income,Austria,140,2018
+HUN,Europe & Central Asia,High income,Hungary,95,2018
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",115,2018
+NZL,East Asia & Pacific,High income,New Zealand,110,2018
+ALB,Europe & Central Asia,Upper middle income,Albania,240,2018
+CZE,Europe & Central Asia,High income,Czech Republic,150,2018
+GUY,Latin America & Caribbean,High income,Guyana,255,2018
+MDG,Sub-Saharan Africa,Low income,Madagascar,165,2018
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",145,2018
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,200,2018
+KHM,East Asia & Pacific,Lower middle income,Cambodia,80,2018
+ROU,Europe & Central Asia,High income,Romania,145,2018
+SVK,Europe & Central Asia,High income,Slovak Republic,120,2018
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,115,2018
+GRC,Europe & Central Asia,High income,Greece,170,2018
+BDI,Sub-Saharan Africa,Low income,Burundi,330,2018
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,140,2018
+ARG,Latin America & Caribbean,Upper middle income,Argentina,220,2018
+ETH,Sub-Saharan Africa,,Ethiopia,315,2018
+NPL,South Asia,Lower middle income,Nepal,525,2018
+UGA,Sub-Saharan Africa,Low income,Uganda,380,2018
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",150,2018
+NOR,Europe & Central Asia,High income,Norway,135,2018
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,265,2018
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,290,2018
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,275,2018
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",355,2018
+POL,Europe & Central Asia,High income,Poland,170,2018
+BRB,Latin America & Caribbean,High income,Barbados,260,2018
+MAC,East Asia & Pacific,High income,Macau SAR,220,2018
+SWE,Europe & Central Asia,High income,Sweden,200,2018
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,260,2018
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",390,2018
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",150,2018
+RWA,Sub-Saharan Africa,Low income,Rwanda,540,2018
+PRT,Europe & Central Asia,High income,Portugal,255,2018
+NLD,Europe & Central Asia,High income,"Netherlands, The",370,2018
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,625,2018
+PER,Latin America & Caribbean,Upper middle income,Peru,560,2018
+LKA,South Asia,Lower middle income,Sri Lanka,565,2018
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",365,2018
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",280,2018
+BEL,Europe & Central Asia,High income,Belgium,385,2018
+SGP,East Asia & Pacific,High income,Singapore,315,2018
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",360,2018
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,420,2018
+CHL,Latin America & Caribbean,High income,Chile,540,2018
+HTI,Latin America & Caribbean,Lower middle income,Haiti,475,2018
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,410,2018
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",450,2018
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,450,2018
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,610,2018
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,750,2018
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",375,2018
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,515,2018
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,1010,2018
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",805,2018
+CHE,Europe & Central Asia,High income,Switzerland,500,2018
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",825,2018
+AUS,East Asia & Pacific,High income,Australia,465,2018
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,695,2018
+MYS,East Asia & Pacific,Upper middle income,Malaysia,675,2018
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",930,2018
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",1210,2018
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,805,2018
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,840,2018
+THA,East Asia & Pacific,Upper middle income,Thailand,930,2018
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,1315,2018
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,1450,2018
+ITA,Europe & Central Asia,High income,Italy,1440,2018
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,1260,2018
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",1265,2018
+ESP,Europe & Central Asia,High income,Spain,1785,2018
+COL,Latin America & Caribbean,Upper middle income,Colombia,3275,2018
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,1695,2018
+BGD,South Asia,Lower middle income,Bangladesh,4150,2018
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,500,2018
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,2105,2018
+UKR,Europe & Central Asia,Upper middle income,Ukraine,1685,2018
+RUS,Europe & Central Asia,High income,Russia,1430,2018
+VEN,Latin America & Caribbean,,Venezuela,815,2018
+TUR,Europe & Central Asia,Upper middle income,Turkey,3125,2018
+PHL,East Asia & Pacific,Lower middle income,Philippines,4070,2018
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,2020,2018
+DEU,Europe & Central Asia,High income,Germany,2230,2018
+HKG,East Asia & Pacific,High income,Hong Kong SAR,2440,2018
+TWN,East Asia & Pacific,High income,Taiwan,3160,2018
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,2055,2018
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,7035,2018
+VNM,East Asia & Pacific,Lower middle income,Vietnam,12350,2018
+MEX,Latin America & Caribbean,Upper middle income,Mexico,5750,2018
+USA,North America,High income,United States of America,6515,2018
+JPN,East Asia & Pacific,High income,Japan,6680,2018
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,6505,2018
+BRA,Latin America & Caribbean,Upper middle income,Brazil,10240,2018
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,2865,2018
+FRA,Europe & Central Asia,High income,France,13415,2018
+KOR,East Asia & Pacific,High income,"Korea, Republic of",16860,2018
+IND,South Asia,Lower middle income,India,107020,2018
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",84975,2018
+AND,Europe & Central Asia,High income,Andorra,--,2018
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,10,2018
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,--,2018
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,--,2018
+MDV,South Asia,Upper middle income,"Maldives, Republic of",5,2018
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,--,2018
+ABW,Latin America & Caribbean,High income,Aruba,--,2019
+BMU,North America,High income,Bermuda,55,2019
+CYM,Latin America & Caribbean,High income,Cayman Islands,--,2019
+LIE,Europe & Central Asia,High income,Liechtenstein,--,2019
+PYF,East Asia & Pacific,High income,French Polynesia,25,2019
+SXM,Latin America & Caribbean,High income,Sint-Maarten,0,2019
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,--,2019
+COM,Sub-Saharan Africa,Lower middle income,Comoros,15,2019
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",25,2019
+MCO,Europe & Central Asia,High income,Monaco,--,2019
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,--,2019
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,5,2019
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",10,2019
+SYC,Sub-Saharan Africa,High income,Seychelles,--,2019
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,15,2019
+BRN,East Asia & Pacific,High income,Brunei,15,2019
+BTN,South Asia,Lower middle income,Bhutan,105,2019
+DMA,Latin America & Caribbean,Upper middle income,Dominica,45,2019
+GEO,Europe & Central Asia,Upper middle income,Georgia,15,2019
+LBR,Sub-Saharan Africa,Low income,Liberia,15,2019
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",5,2019
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,15,2019
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,60,2019
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",5,2019
+SUR,Latin America & Caribbean,Upper middle income,Surinam,15,2019
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,5,2019
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,20,2019
+URY,Latin America & Caribbean,High income,Uruguay,50,2019
+ARM,Europe & Central Asia,Upper middle income,Armenia,20,2019
+CYP,Europe & Central Asia,High income,Cyprus,15,2019
+EST,Europe & Central Asia,High income,Estonia,5,2019
+FJI,East Asia & Pacific,Upper middle income,Fiji,20,2019
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,70,2019
+LAO,East Asia & Pacific,Lower middle income,Laos,15,2019
+MKD,Europe & Central Asia,Upper middle income,Macedonia,15,2019
+MOZ,Sub-Saharan Africa,Low income,Mozambique,15,2019
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,20,2019
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,30,2019
+MWI,Sub-Saharan Africa,Low income,Malawi,20,2019
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,20,2019
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,30,2019
+CAF,Sub-Saharan Africa,Low income,Central African Republic,35,2019
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",50,2019
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),120,2019
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",60,2019
+SVN,Europe & Central Asia,High income,Slovenia,15,2019
+,,,Other,0,2019
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,40,2019
+GRD,Latin America & Caribbean,Upper middle income,Grenada,35,2019
+LVA,Europe & Central Asia,High income,Latvia,40,2019
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,35,2019
+,,,Country of Citizenship not stated,5,2019
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,40,2019
+LUX,Europe & Central Asia,High income,Luxembourg,35,2019
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,35,2019
+BGR,Europe & Central Asia,High income,Bulgaria,65,2019
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,60,2019
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",30,2019
+BLR,Europe & Central Asia,Upper middle income,Belarus,65,2019
+ISL,Europe & Central Asia,High income,Iceland,45,2019
+MDA,Europe & Central Asia,Upper middle income,Moldova,50,2019
+GMB,Sub-Saharan Africa,Low income,Gambia,80,2019
+LTU,Europe & Central Asia,High income,Lithuania,45,2019
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,40,2019
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,85,2019
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",55,2019
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,80,2019
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",80,2019
+BLZ,Latin America & Caribbean,Upper middle income,Belize,70,2019
+AGO,Sub-Saharan Africa,Lower middle income,Angola,120,2019
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,75,2019
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,155,2019
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",185,2019
+CRI,Latin America & Caribbean,High income,Costa Rica,120,2019
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,105,2019
+HND,Latin America & Caribbean,Lower middle income,Honduras,165,2019
+,,,Stateless,115,2019
+CUB,Latin America & Caribbean,Upper middle income,Cuba,90,2019
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),170,2019
+ERI,Sub-Saharan Africa,Low income,Eritrea,85,2019
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,80,2019
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,85,2019
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,95,2019
+HRV,Europe & Central Asia,High income,Croatia,45,2019
+FIN,Europe & Central Asia,High income,Finland,110,2019
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",135,2019
+DNK,Europe & Central Asia,High income,Denmark,105,2019
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",205,2019
+AUT,Europe & Central Asia,High income,Austria,130,2019
+HUN,Europe & Central Asia,High income,Hungary,105,2019
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",135,2019
+NZL,East Asia & Pacific,High income,New Zealand,140,2019
+ALB,Europe & Central Asia,Upper middle income,Albania,350,2019
+CZE,Europe & Central Asia,High income,Czech Republic,155,2019
+GUY,Latin America & Caribbean,High income,Guyana,325,2019
+MDG,Sub-Saharan Africa,Low income,Madagascar,205,2019
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",140,2019
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,170,2019
+KHM,East Asia & Pacific,Lower middle income,Cambodia,120,2019
+ROU,Europe & Central Asia,High income,Romania,155,2019
+SVK,Europe & Central Asia,High income,Slovak Republic,130,2019
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,130,2019
+GRC,Europe & Central Asia,High income,Greece,170,2019
+BDI,Sub-Saharan Africa,Low income,Burundi,265,2019
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,165,2019
+ARG,Latin America & Caribbean,Upper middle income,Argentina,270,2019
+ETH,Sub-Saharan Africa,,Ethiopia,315,2019
+NPL,South Asia,Lower middle income,Nepal,760,2019
+UGA,Sub-Saharan Africa,Low income,Uganda,440,2019
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",165,2019
+NOR,Europe & Central Asia,High income,Norway,140,2019
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,275,2019
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,280,2019
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,260,2019
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",460,2019
+POL,Europe & Central Asia,High income,Poland,180,2019
+BRB,Latin America & Caribbean,High income,Barbados,300,2019
+MAC,East Asia & Pacific,High income,Macau SAR,185,2019
+SWE,Europe & Central Asia,High income,Sweden,180,2019
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,275,2019
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",450,2019
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",165,2019
+RWA,Sub-Saharan Africa,Low income,Rwanda,685,2019
+PRT,Europe & Central Asia,High income,Portugal,225,2019
+NLD,Europe & Central Asia,High income,"Netherlands, The",335,2019
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,905,2019
+PER,Latin America & Caribbean,Upper middle income,Peru,685,2019
+LKA,South Asia,Lower middle income,Sri Lanka,965,2019
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",490,2019
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",455,2019
+BEL,Europe & Central Asia,High income,Belgium,550,2019
+SGP,East Asia & Pacific,High income,Singapore,345,2019
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",430,2019
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,350,2019
+CHL,Latin America & Caribbean,High income,Chile,545,2019
+HTI,Latin America & Caribbean,Lower middle income,Haiti,520,2019
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,550,2019
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",485,2019
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,510,2019
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,635,2019
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,850,2019
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",505,2019
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,570,2019
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,1065,2019
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",860,2019
+CHE,Europe & Central Asia,High income,Switzerland,435,2019
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",1300,2019
+AUS,East Asia & Pacific,High income,Australia,410,2019
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,675,2019
+MYS,East Asia & Pacific,Upper middle income,Malaysia,640,2019
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",1200,2019
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",1285,2019
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,1100,2019
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,1340,2019
+THA,East Asia & Pacific,Upper middle income,Thailand,940,2019
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,1555,2019
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,2640,2019
+ITA,Europe & Central Asia,High income,Italy,1465,2019
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,1480,2019
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",1585,2019
+ESP,Europe & Central Asia,High income,Spain,1910,2019
+COL,Latin America & Caribbean,Upper middle income,Colombia,4440,2019
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,2040,2019
+BGD,South Asia,Lower middle income,Bangladesh,4900,2019
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,520,2019
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,3065,2019
+UKR,Europe & Central Asia,Upper middle income,Ukraine,1520,2019
+RUS,Europe & Central Asia,High income,Russia,1550,2019
+VEN,Latin America & Caribbean,,Venezuela,625,2019
+TUR,Europe & Central Asia,Upper middle income,Turkey,3245,2019
+PHL,East Asia & Pacific,Lower middle income,Philippines,6330,2019
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,1950,2019
+DEU,Europe & Central Asia,High income,Germany,2275,2019
+HKG,East Asia & Pacific,High income,Hong Kong SAR,2490,2019
+TWN,East Asia & Pacific,High income,Taiwan,3365,2019
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,2165,2019
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,9680,2019
+VNM,East Asia & Pacific,Lower middle income,Vietnam,11605,2019
+MEX,Latin America & Caribbean,Upper middle income,Mexico,6255,2019
+USA,North America,High income,United States of America,6680,2019
+JPN,East Asia & Pacific,High income,Japan,6665,2019
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,7505,2019
+BRA,Latin America & Caribbean,Upper middle income,Brazil,10225,2019
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,1185,2019
+FRA,Europe & Central Asia,High income,France,14510,2019
+KOR,East Asia & Pacific,High income,"Korea, Republic of",16990,2019
+IND,South Asia,Lower middle income,India,138595,2019
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",84140,2019
+AND,Europe & Central Asia,High income,Andorra,--,2019
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,10,2019
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,--,2019
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,--,2019
+MDV,South Asia,Upper middle income,"Maldives, Republic of",5,2019
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,5,2019
+ABW,Latin America & Caribbean,High income,Aruba,0,2020
+BMU,North America,High income,Bermuda,15,2020
+CYM,Latin America & Caribbean,High income,Cayman Islands,--,2020
+LIE,Europe & Central Asia,High income,Liechtenstein,0,2020
+PYF,East Asia & Pacific,High income,French Polynesia,--,2020
+SXM,Latin America & Caribbean,High income,Sint-Maarten,0,2020
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,--,2020
+COM,Sub-Saharan Africa,Lower middle income,Comoros,10,2020
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",--,2020
+MCO,Europe & Central Asia,High income,Monaco,--,2020
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,--,2020
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,--,2020
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",10,2020
+SYC,Sub-Saharan Africa,High income,Seychelles,--,2020
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,15,2020
+BRN,East Asia & Pacific,High income,Brunei,5,2020
+BTN,South Asia,Lower middle income,Bhutan,85,2020
+DMA,Latin America & Caribbean,Upper middle income,Dominica,30,2020
+GEO,Europe & Central Asia,Upper middle income,Georgia,5,2020
+LBR,Sub-Saharan Africa,Low income,Liberia,10,2020
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",5,2020
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,15,2020
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,15,2020
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",5,2020
+SUR,Latin America & Caribbean,Upper middle income,Surinam,10,2020
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,5,2020
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,10,2020
+URY,Latin America & Caribbean,High income,Uruguay,35,2020
+ARM,Europe & Central Asia,Upper middle income,Armenia,10,2020
+CYP,Europe & Central Asia,High income,Cyprus,10,2020
+EST,Europe & Central Asia,High income,Estonia,10,2020
+FJI,East Asia & Pacific,Upper middle income,Fiji,15,2020
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,50,2020
+LAO,East Asia & Pacific,Lower middle income,Laos,10,2020
+MKD,Europe & Central Asia,Upper middle income,Macedonia,15,2020
+MOZ,Sub-Saharan Africa,Low income,Mozambique,10,2020
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,10,2020
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,20,2020
+MWI,Sub-Saharan Africa,Low income,Malawi,20,2020
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,10,2020
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,30,2020
+CAF,Sub-Saharan Africa,Low income,Central African Republic,20,2020
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",30,2020
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),60,2020
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",40,2020
+SVN,Europe & Central Asia,High income,Slovenia,15,2020
+,,,Other,0,2020
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,25,2020
+GRD,Latin America & Caribbean,Upper middle income,Grenada,40,2020
+LVA,Europe & Central Asia,High income,Latvia,25,2020
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,25,2020
+,,,Country of Citizenship not stated,0,2020
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,35,2020
+LUX,Europe & Central Asia,High income,Luxembourg,20,2020
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,25,2020
+BGR,Europe & Central Asia,High income,Bulgaria,40,2020
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,45,2020
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",40,2020
+BLR,Europe & Central Asia,Upper middle income,Belarus,35,2020
+ISL,Europe & Central Asia,High income,Iceland,30,2020
+MDA,Europe & Central Asia,Upper middle income,Moldova,30,2020
+GMB,Sub-Saharan Africa,Low income,Gambia,45,2020
+LTU,Europe & Central Asia,High income,Lithuania,25,2020
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,25,2020
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,50,2020
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",55,2020
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,45,2020
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",55,2020
+BLZ,Latin America & Caribbean,Upper middle income,Belize,50,2020
+AGO,Sub-Saharan Africa,Lower middle income,Angola,30,2020
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,45,2020
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,100,2020
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",160,2020
+CRI,Latin America & Caribbean,High income,Costa Rica,80,2020
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,80,2020
+HND,Latin America & Caribbean,Lower middle income,Honduras,105,2020
+,,,Stateless,90,2020
+CUB,Latin America & Caribbean,Upper middle income,Cuba,75,2020
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),145,2020
+ERI,Sub-Saharan Africa,Low income,Eritrea,60,2020
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,55,2020
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,40,2020
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,85,2020
+HRV,Europe & Central Asia,High income,Croatia,35,2020
+FIN,Europe & Central Asia,High income,Finland,55,2020
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",120,2020
+DNK,Europe & Central Asia,High income,Denmark,40,2020
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",145,2020
+AUT,Europe & Central Asia,High income,Austria,55,2020
+HUN,Europe & Central Asia,High income,Hungary,60,2020
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",110,2020
+NZL,East Asia & Pacific,High income,New Zealand,75,2020
+ALB,Europe & Central Asia,Upper middle income,Albania,230,2020
+CZE,Europe & Central Asia,High income,Czech Republic,85,2020
+GUY,Latin America & Caribbean,High income,Guyana,215,2020
+MDG,Sub-Saharan Africa,Low income,Madagascar,180,2020
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",85,2020
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,130,2020
+KHM,East Asia & Pacific,Lower middle income,Cambodia,75,2020
+ROU,Europe & Central Asia,High income,Romania,85,2020
+SVK,Europe & Central Asia,High income,Slovak Republic,60,2020
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,95,2020
+GRC,Europe & Central Asia,High income,Greece,135,2020
+BDI,Sub-Saharan Africa,Low income,Burundi,190,2020
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,100,2020
+ARG,Latin America & Caribbean,Upper middle income,Argentina,180,2020
+ETH,Sub-Saharan Africa,,Ethiopia,220,2020
+NPL,South Asia,Lower middle income,Nepal,530,2020
+UGA,Sub-Saharan Africa,Low income,Uganda,275,2020
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",115,2020
+NOR,Europe & Central Asia,High income,Norway,45,2020
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,250,2020
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,200,2020
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,180,2020
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",325,2020
+POL,Europe & Central Asia,High income,Poland,90,2020
+BRB,Latin America & Caribbean,High income,Barbados,170,2020
+MAC,East Asia & Pacific,High income,Macau SAR,135,2020
+SWE,Europe & Central Asia,High income,Sweden,115,2020
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,195,2020
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",200,2020
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",115,2020
+RWA,Sub-Saharan Africa,Low income,Rwanda,420,2020
+PRT,Europe & Central Asia,High income,Portugal,170,2020
+NLD,Europe & Central Asia,High income,"Netherlands, The",150,2020
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,630,2020
+PER,Latin America & Caribbean,Upper middle income,Peru,445,2020
+LKA,South Asia,Lower middle income,Sri Lanka,790,2020
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",410,2020
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",250,2020
+BEL,Europe & Central Asia,High income,Belgium,305,2020
+SGP,East Asia & Pacific,High income,Singapore,215,2020
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",310,2020
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,320,2020
+CHL,Latin America & Caribbean,High income,Chile,435,2020
+HTI,Latin America & Caribbean,Lower middle income,Haiti,475,2020
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,440,2020
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",425,2020
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,400,2020
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,275,2020
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,590,2020
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",325,2020
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,535,2020
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,815,2020
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",505,2020
+CHE,Europe & Central Asia,High income,Switzerland,205,2020
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",790,2020
+AUS,East Asia & Pacific,High income,Australia,250,2020
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,365,2020
+MYS,East Asia & Pacific,Upper middle income,Malaysia,405,2020
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",875,2020
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",775,2020
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,820,2020
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,810,2020
+THA,East Asia & Pacific,Upper middle income,Thailand,530,2020
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,1010,2020
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,2040,2020
+ITA,Europe & Central Asia,High income,Italy,790,2020
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,1305,2020
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",1065,2020
+ESP,Europe & Central Asia,High income,Spain,570,2020
+COL,Latin America & Caribbean,Upper middle income,Colombia,3010,2020
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,1255,2020
+BGD,South Asia,Lower middle income,Bangladesh,3160,2020
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,445,2020
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,2465,2020
+UKR,Europe & Central Asia,Upper middle income,Ukraine,975,2020
+RUS,Europe & Central Asia,High income,Russia,1030,2020
+VEN,Latin America & Caribbean,,Venezuela,555,2020
+TUR,Europe & Central Asia,Upper middle income,Turkey,1890,2020
+PHL,East Asia & Pacific,Lower middle income,Philippines,4355,2020
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,1035,2020
+DEU,Europe & Central Asia,High income,Germany,795,2020
+HKG,East Asia & Pacific,High income,Hong Kong SAR,2600,2020
+TWN,East Asia & Pacific,High income,Taiwan,2150,2020
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,1590,2020
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,6965,2020
+VNM,East Asia & Pacific,Lower middle income,Vietnam,9355,2020
+MEX,Latin America & Caribbean,Upper middle income,Mexico,3645,2020
+USA,North America,High income,United States of America,4235,2020
+JPN,East Asia & Pacific,High income,Japan,3485,2020
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,5830,2020
+BRA,Latin America & Caribbean,Upper middle income,Brazil,6035,2020
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,715,2020
+FRA,Europe & Central Asia,High income,France,7930,2020
+KOR,East Asia & Pacific,High income,"Korea, Republic of",10925,2020
+IND,South Asia,Lower middle income,India,80870,2020
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",57695,2020
+AND,Europe & Central Asia,High income,Andorra,0,2020
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,--,2020
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,--,2020
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,--,2020
+MDV,South Asia,Upper middle income,"Maldives, Republic of",--,2020
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,5,2020
+ABW,Latin America & Caribbean,High income,Aruba,5,2021
+BMU,North America,High income,Bermuda,60,2021
+CYM,Latin America & Caribbean,High income,Cayman Islands,5,2021
+LIE,Europe & Central Asia,High income,Liechtenstein,--,2021
+PYF,East Asia & Pacific,High income,French Polynesia,35,2021
+SXM,Latin America & Caribbean,High income,Sint-Maarten,10,2021
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,--,2021
+COM,Sub-Saharan Africa,Lower middle income,Comoros,20,2021
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",10,2021
+MCO,Europe & Central Asia,High income,Monaco,--,2021
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,--,2021
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,5,2021
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",10,2021
+SYC,Sub-Saharan Africa,High income,Seychelles,0,2021
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,30,2021
+BRN,East Asia & Pacific,High income,Brunei,15,2021
+BTN,South Asia,Lower middle income,Bhutan,170,2021
+DMA,Latin America & Caribbean,Upper middle income,Dominica,55,2021
+GEO,Europe & Central Asia,Upper middle income,Georgia,20,2021
+LBR,Sub-Saharan Africa,Low income,Liberia,20,2021
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",45,2021
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,10,2021
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,80,2021
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",--,2021
+SUR,Latin America & Caribbean,Upper middle income,Surinam,--,2021
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,15,2021
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,10,2021
+URY,Latin America & Caribbean,High income,Uruguay,55,2021
+ARM,Europe & Central Asia,Upper middle income,Armenia,45,2021
+CYP,Europe & Central Asia,High income,Cyprus,25,2021
+EST,Europe & Central Asia,High income,Estonia,20,2021
+FJI,East Asia & Pacific,Upper middle income,Fiji,30,2021
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,95,2021
+LAO,East Asia & Pacific,Lower middle income,Laos,15,2021
+MKD,Europe & Central Asia,Upper middle income,Macedonia,35,2021
+MOZ,Sub-Saharan Africa,Low income,Mozambique,25,2021
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,20,2021
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,70,2021
+MWI,Sub-Saharan Africa,Low income,Malawi,30,2021
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,20,2021
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,30,2021
+CAF,Sub-Saharan Africa,Low income,Central African Republic,25,2021
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",40,2021
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),225,2021
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",25,2021
+SVN,Europe & Central Asia,High income,Slovenia,20,2021
+,,,Other,0,2021
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,50,2021
+GRD,Latin America & Caribbean,Upper middle income,Grenada,50,2021
+LVA,Europe & Central Asia,High income,Latvia,25,2021
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,50,2021
+,,,Country of Citizenship not stated,0,2021
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,50,2021
+LUX,Europe & Central Asia,High income,Luxembourg,65,2021
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,30,2021
+BGR,Europe & Central Asia,High income,Bulgaria,70,2021
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,80,2021
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",65,2021
+BLR,Europe & Central Asia,Upper middle income,Belarus,65,2021
+ISL,Europe & Central Asia,High income,Iceland,30,2021
+MDA,Europe & Central Asia,Upper middle income,Moldova,45,2021
+GMB,Sub-Saharan Africa,Low income,Gambia,105,2021
+LTU,Europe & Central Asia,High income,Lithuania,35,2021
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,50,2021
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,205,2021
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",40,2021
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,135,2021
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",105,2021
+BLZ,Latin America & Caribbean,Upper middle income,Belize,70,2021
+AGO,Sub-Saharan Africa,Lower middle income,Angola,50,2021
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,80,2021
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,210,2021
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",175,2021
+CRI,Latin America & Caribbean,High income,Costa Rica,180,2021
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,130,2021
+HND,Latin America & Caribbean,Lower middle income,Honduras,265,2021
+,,,Stateless,110,2021
+CUB,Latin America & Caribbean,Upper middle income,Cuba,165,2021
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),200,2021
+ERI,Sub-Saharan Africa,Low income,Eritrea,40,2021
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,75,2021
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,135,2021
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,75,2021
+HRV,Europe & Central Asia,High income,Croatia,35,2021
+FIN,Europe & Central Asia,High income,Finland,170,2021
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",170,2021
+DNK,Europe & Central Asia,High income,Denmark,280,2021
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",310,2021
+AUT,Europe & Central Asia,High income,Austria,295,2021
+HUN,Europe & Central Asia,High income,Hungary,120,2021
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",150,2021
+NZL,East Asia & Pacific,High income,New Zealand,85,2021
+ALB,Europe & Central Asia,Upper middle income,Albania,290,2021
+CZE,Europe & Central Asia,High income,Czech Republic,250,2021
+GUY,Latin America & Caribbean,High income,Guyana,325,2021
+MDG,Sub-Saharan Africa,Low income,Madagascar,325,2021
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",200,2021
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,220,2021
+KHM,East Asia & Pacific,Lower middle income,Cambodia,105,2021
+ROU,Europe & Central Asia,High income,Romania,120,2021
+SVK,Europe & Central Asia,High income,Slovak Republic,155,2021
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,125,2021
+GRC,Europe & Central Asia,High income,Greece,185,2021
+BDI,Sub-Saharan Africa,Low income,Burundi,250,2021
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,225,2021
+ARG,Latin America & Caribbean,Upper middle income,Argentina,565,2021
+ETH,Sub-Saharan Africa,,Ethiopia,310,2021
+NPL,South Asia,Lower middle income,Nepal,1725,2021
+UGA,Sub-Saharan Africa,Low income,Uganda,365,2021
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",205,2021
+NOR,Europe & Central Asia,High income,Norway,115,2021
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,200,2021
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,525,2021
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,265,2021
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",740,2021
+POL,Europe & Central Asia,High income,Poland,190,2021
+BRB,Latin America & Caribbean,High income,Barbados,350,2021
+MAC,East Asia & Pacific,High income,Macau SAR,115,2021
+SWE,Europe & Central Asia,High income,Sweden,315,2021
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,200,2021
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",430,2021
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",265,2021
+RWA,Sub-Saharan Africa,Low income,Rwanda,625,2021
+PRT,Europe & Central Asia,High income,Portugal,320,2021
+NLD,Europe & Central Asia,High income,"Netherlands, The",520,2021
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,1405,2021
+PER,Latin America & Caribbean,Upper middle income,Peru,1670,2021
+LKA,South Asia,Lower middle income,Sri Lanka,1865,2021
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",805,2021
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",335,2021
+BEL,Europe & Central Asia,High income,Belgium,1175,2021
+SGP,East Asia & Pacific,High income,Singapore,385,2021
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",435,2021
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,500,2021
+CHL,Latin America & Caribbean,High income,Chile,1370,2021
+HTI,Latin America & Caribbean,Lower middle income,Haiti,935,2021
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,660,2021
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",545,2021
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,605,2021
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,625,2021
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,1560,2021
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",450,2021
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,1315,2021
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,1185,2021
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",790,2021
+CHE,Europe & Central Asia,High income,Switzerland,670,2021
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",1670,2021
+AUS,East Asia & Pacific,High income,Australia,355,2021
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,715,2021
+MYS,East Asia & Pacific,Upper middle income,Malaysia,570,2021
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",1910,2021
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",1570,2021
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,1570,2021
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,1215,2021
+THA,East Asia & Pacific,Upper middle income,Thailand,1255,2021
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,1860,2021
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,3030,2021
+ITA,Europe & Central Asia,High income,Italy,2970,2021
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,1840,2021
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",1775,2021
+ESP,Europe & Central Asia,High income,Spain,2615,2021
+COL,Latin America & Caribbean,Upper middle income,Colombia,6835,2021
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,1685,2021
+BGD,South Asia,Lower middle income,Bangladesh,6580,2021
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,290,2021
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,4275,2021
+UKR,Europe & Central Asia,Upper middle income,Ukraine,1395,2021
+RUS,Europe & Central Asia,High income,Russia,1660,2021
+VEN,Latin America & Caribbean,,Venezuela,535,2021
+TUR,Europe & Central Asia,Upper middle income,Turkey,3870,2021
+PHL,East Asia & Pacific,Lower middle income,Philippines,14345,2021
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,2435,2021
+DEU,Europe & Central Asia,High income,Germany,5165,2021
+HKG,East Asia & Pacific,High income,Hong Kong SAR,6335,2021
+TWN,East Asia & Pacific,High income,Taiwan,2225,2021
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,3325,2021
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,11910,2021
+VNM,East Asia & Pacific,Lower middle income,Vietnam,9220,2021
+MEX,Latin America & Caribbean,Upper middle income,Mexico,9695,2021
+USA,North America,High income,United States of America,8190,2021
+JPN,East Asia & Pacific,High income,Japan,7600,2021
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,9510,2021
+BRA,Latin America & Caribbean,Upper middle income,Brazil,8535,2021
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,550,2021
+FRA,Europe & Central Asia,High income,France,19985,2021
+KOR,East Asia & Pacific,High income,"Korea, Republic of",10595,2021
+IND,South Asia,Lower middle income,India,169300,2021
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",55735,2021
+AND,Europe & Central Asia,High income,Andorra,10,2021
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,--,2021
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,--,2021
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,5,2021
+MDV,South Asia,Upper middle income,"Maldives, Republic of",5,2021
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,5,2021
+ABW,Latin America & Caribbean,High income,Aruba,--,2022
+BMU,North America,High income,Bermuda,15,2022
+CYM,Latin America & Caribbean,High income,Cayman Islands,5,2022
+LIE,Europe & Central Asia,High income,Liechtenstein,0,2022
+PYF,East Asia & Pacific,High income,French Polynesia,--,2022
+SXM,Latin America & Caribbean,High income,Sint-Maarten,0,2022
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,--,2022
+COM,Sub-Saharan Africa,Lower middle income,Comoros,25,2022
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",10,2022
+MCO,Europe & Central Asia,High income,Monaco,--,2022
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,--,2022
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,--,2022
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",15,2022
+SYC,Sub-Saharan Africa,High income,Seychelles,--,2022
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,35,2022
+BRN,East Asia & Pacific,High income,Brunei,15,2022
+BTN,South Asia,Lower middle income,Bhutan,300,2022
+DMA,Latin America & Caribbean,Upper middle income,Dominica,65,2022
+GEO,Europe & Central Asia,Upper middle income,Georgia,30,2022
+LBR,Sub-Saharan Africa,Low income,Liberia,40,2022
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",45,2022
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,20,2022
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,110,2022
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",--,2022
+SUR,Latin America & Caribbean,Upper middle income,Surinam,15,2022
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,10,2022
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,5,2022
+URY,Latin America & Caribbean,High income,Uruguay,30,2022
+ARM,Europe & Central Asia,Upper middle income,Armenia,60,2022
+CYP,Europe & Central Asia,High income,Cyprus,10,2022
+EST,Europe & Central Asia,High income,Estonia,10,2022
+FJI,East Asia & Pacific,Upper middle income,Fiji,30,2022
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,85,2022
+LAO,East Asia & Pacific,Lower middle income,Laos,15,2022
+MKD,Europe & Central Asia,Upper middle income,Macedonia,45,2022
+MOZ,Sub-Saharan Africa,Low income,Mozambique,35,2022
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,35,2022
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,70,2022
+MWI,Sub-Saharan Africa,Low income,Malawi,40,2022
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,25,2022
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,50,2022
+CAF,Sub-Saharan Africa,Low income,Central African Republic,30,2022
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",55,2022
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),420,2022
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",15,2022
+SVN,Europe & Central Asia,High income,Slovenia,15,2022
+,,,Other,0,2022
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,40,2022
+GRD,Latin America & Caribbean,Upper middle income,Grenada,40,2022
+LVA,Europe & Central Asia,High income,Latvia,25,2022
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,70,2022
+,,,Country of Citizenship not stated,0,2022
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,55,2022
+LUX,Europe & Central Asia,High income,Luxembourg,40,2022
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,35,2022
+BGR,Europe & Central Asia,High income,Bulgaria,40,2022
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,75,2022
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",50,2022
+BLR,Europe & Central Asia,Upper middle income,Belarus,80,2022
+ISL,Europe & Central Asia,High income,Iceland,35,2022
+MDA,Europe & Central Asia,Upper middle income,Moldova,55,2022
+GMB,Sub-Saharan Africa,Low income,Gambia,110,2022
+LTU,Europe & Central Asia,High income,Lithuania,35,2022
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,60,2022
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,250,2022
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",55,2022
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,175,2022
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",140,2022
+BLZ,Latin America & Caribbean,Upper middle income,Belize,70,2022
+AGO,Sub-Saharan Africa,Lower middle income,Angola,75,2022
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,70,2022
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,170,2022
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",165,2022
+CRI,Latin America & Caribbean,High income,Costa Rica,195,2022
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,155,2022
+HND,Latin America & Caribbean,Lower middle income,Honduras,365,2022
+,,,Stateless,115,2022
+CUB,Latin America & Caribbean,Upper middle income,Cuba,185,2022
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),200,2022
+ERI,Sub-Saharan Africa,Low income,Eritrea,35,2022
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,75,2022
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,85,2022
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,170,2022
+HRV,Europe & Central Asia,High income,Croatia,40,2022
+FIN,Europe & Central Asia,High income,Finland,125,2022
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",165,2022
+DNK,Europe & Central Asia,High income,Denmark,140,2022
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",455,2022
+AUT,Europe & Central Asia,High income,Austria,235,2022
+HUN,Europe & Central Asia,High income,Hungary,110,2022
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",155,2022
+NZL,East Asia & Pacific,High income,New Zealand,105,2022
+ALB,Europe & Central Asia,Upper middle income,Albania,325,2022
+CZE,Europe & Central Asia,High income,Czech Republic,160,2022
+GUY,Latin America & Caribbean,High income,Guyana,305,2022
+MDG,Sub-Saharan Africa,Low income,Madagascar,425,2022
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",260,2022
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,230,2022
+KHM,East Asia & Pacific,Lower middle income,Cambodia,145,2022
+ROU,Europe & Central Asia,High income,Romania,140,2022
+SVK,Europe & Central Asia,High income,Slovak Republic,135,2022
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,160,2022
+GRC,Europe & Central Asia,High income,Greece,160,2022
+BDI,Sub-Saharan Africa,Low income,Burundi,350,2022
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,245,2022
+ARG,Latin America & Caribbean,Upper middle income,Argentina,600,2022
+ETH,Sub-Saharan Africa,,Ethiopia,455,2022
+NPL,South Asia,Lower middle income,Nepal,6675,2022
+UGA,Sub-Saharan Africa,Low income,Uganda,480,2022
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",215,2022
+NOR,Europe & Central Asia,High income,Norway,95,2022
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,155,2022
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,645,2022
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,390,2022
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",1190,2022
+POL,Europe & Central Asia,High income,Poland,165,2022
+BRB,Latin America & Caribbean,High income,Barbados,310,2022
+MAC,East Asia & Pacific,High income,Macau SAR,135,2022
+SWE,Europe & Central Asia,High income,Sweden,180,2022
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,245,2022
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",610,2022
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",240,2022
+RWA,Sub-Saharan Africa,Low income,Rwanda,935,2022
+PRT,Europe & Central Asia,High income,Portugal,280,2022
+NLD,Europe & Central Asia,High income,"Netherlands, The",375,2022
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,1775,2022
+PER,Latin America & Caribbean,Upper middle income,Peru,3180,2022
+LKA,South Asia,Lower middle income,Sri Lanka,3570,2022
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",890,2022
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",510,2022
+BEL,Europe & Central Asia,High income,Belgium,770,2022
+SGP,East Asia & Pacific,High income,Singapore,430,2022
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",450,2022
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,675,2022
+CHL,Latin America & Caribbean,High income,Chile,1390,2022
+HTI,Latin America & Caribbean,Lower middle income,Haiti,1495,2022
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,740,2022
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",635,2022
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,480,2022
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,790,2022
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,1805,2022
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",605,2022
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,1320,2022
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,1305,2022
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",755,2022
+CHE,Europe & Central Asia,High income,Switzerland,525,2022
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",2590,2022
+AUS,East Asia & Pacific,High income,Australia,355,2022
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,495,2022
+MYS,East Asia & Pacific,Upper middle income,Malaysia,625,2022
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",2110,2022
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",1655,2022
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,2040,2022
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,2665,2022
+THA,East Asia & Pacific,Upper middle income,Thailand,2220,2022
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,1635,2022
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,5205,2022
+ITA,Europe & Central Asia,High income,Italy,2405,2022
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,2515,2022
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",2995,2022
+ESP,Europe & Central Asia,High income,Spain,2750,2022
+COL,Latin America & Caribbean,Upper middle income,Colombia,10120,2022
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,1615,2022
+BGD,South Asia,Lower middle income,Bangladesh,7355,2022
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,325,2022
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,4570,2022
+UKR,Europe & Central Asia,Upper middle income,Ukraine,6650,2022
+RUS,Europe & Central Asia,High income,Russia,1255,2022
+VEN,Latin America & Caribbean,,Venezuela,630,2022
+TUR,Europe & Central Asia,Upper middle income,Turkey,3190,2022
+PHL,East Asia & Pacific,Lower middle income,Philippines,25235,2022
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,2275,2022
+DEU,Europe & Central Asia,High income,Germany,4265,2022
+HKG,East Asia & Pacific,High income,Hong Kong SAR,9525,2022
+TWN,East Asia & Pacific,High income,Taiwan,2595,2022
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,3945,2022
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,13445,2022
+VNM,East Asia & Pacific,Lower middle income,Vietnam,9900,2022
+MEX,Latin America & Caribbean,Upper middle income,Mexico,10315,2022
+USA,North America,High income,United States of America,6920,2022
+JPN,East Asia & Pacific,High income,Japan,10940,2022
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,16090,2022
+BRA,Latin America & Caribbean,Upper middle income,Brazil,10355,2022
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,465,2022
+FRA,Europe & Central Asia,High income,France,16600,2022
+KOR,East Asia & Pacific,High income,"Korea, Republic of",11460,2022
+IND,South Asia,Lower middle income,India,225675,2022
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",51600,2022
+AND,Europe & Central Asia,High income,Andorra,10,2022
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,--,2022
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,5,2022
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,--,2022
+MDV,South Asia,Upper middle income,"Maldives, Republic of",5,2022
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,10,2022
+ABW,Latin America & Caribbean,High income,Aruba,--,2023
+BMU,North America,High income,Bermuda,25,2023
+CYM,Latin America & Caribbean,High income,Cayman Islands,5,2023
+LIE,Europe & Central Asia,High income,Liechtenstein,--,2023
+PYF,East Asia & Pacific,High income,French Polynesia,10,2023
+SXM,Latin America & Caribbean,High income,Sint-Maarten,--,2023
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,--,2023
+COM,Sub-Saharan Africa,Lower middle income,Comoros,40,2023
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",15,2023
+MCO,Europe & Central Asia,High income,Monaco,5,2023
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,--,2023
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,5,2023
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",20,2023
+SYC,Sub-Saharan Africa,High income,Seychelles,0,2023
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,80,2023
+BRN,East Asia & Pacific,High income,Brunei,20,2023
+BTN,South Asia,Lower middle income,Bhutan,760,2023
+DMA,Latin America & Caribbean,Upper middle income,Dominica,80,2023
+GEO,Europe & Central Asia,Upper middle income,Georgia,50,2023
+LBR,Sub-Saharan Africa,Low income,Liberia,100,2023
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",70,2023
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,20,2023
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,120,2023
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",--,2023
+SUR,Latin America & Caribbean,Upper middle income,Surinam,15,2023
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,10,2023
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,25,2023
+URY,Latin America & Caribbean,High income,Uruguay,45,2023
+ARM,Europe & Central Asia,Upper middle income,Armenia,70,2023
+CYP,Europe & Central Asia,High income,Cyprus,15,2023
+EST,Europe & Central Asia,High income,Estonia,10,2023
+FJI,East Asia & Pacific,Upper middle income,Fiji,55,2023
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,150,2023
+LAO,East Asia & Pacific,Lower middle income,Laos,30,2023
+MKD,Europe & Central Asia,Upper middle income,Macedonia,45,2023
+MOZ,Sub-Saharan Africa,Low income,Mozambique,40,2023
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,35,2023
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,65,2023
+MWI,Sub-Saharan Africa,Low income,Malawi,45,2023
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,20,2023
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,75,2023
+CAF,Sub-Saharan Africa,Low income,Central African Republic,50,2023
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",100,2023
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),650,2023
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",20,2023
+SVN,Europe & Central Asia,High income,Slovenia,10,2023
+,,,Other,--,2023
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,40,2023
+GRD,Latin America & Caribbean,Upper middle income,Grenada,40,2023
+LVA,Europe & Central Asia,High income,Latvia,25,2023
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,225,2023
+,,,Country of Citizenship not stated,0,2023
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,50,2023
+LUX,Europe & Central Asia,High income,Luxembourg,40,2023
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,30,2023
+BGR,Europe & Central Asia,High income,Bulgaria,45,2023
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,155,2023
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",100,2023
+BLR,Europe & Central Asia,Upper middle income,Belarus,100,2023
+ISL,Europe & Central Asia,High income,Iceland,15,2023
+MDA,Europe & Central Asia,Upper middle income,Moldova,65,2023
+GMB,Sub-Saharan Africa,Low income,Gambia,200,2023
+LTU,Europe & Central Asia,High income,Lithuania,25,2023
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,190,2023
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,290,2023
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",70,2023
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,220,2023
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",200,2023
+BLZ,Latin America & Caribbean,Upper middle income,Belize,85,2023
+AGO,Sub-Saharan Africa,Lower middle income,Angola,70,2023
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,85,2023
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,330,2023
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",200,2023
+CRI,Latin America & Caribbean,High income,Costa Rica,220,2023
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,190,2023
+HND,Latin America & Caribbean,Lower middle income,Honduras,415,2023
+,,,Stateless,185,2023
+CUB,Latin America & Caribbean,Upper middle income,Cuba,220,2023
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),200,2023
+ERI,Sub-Saharan Africa,Low income,Eritrea,45,2023
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,85,2023
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,65,2023
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,125,2023
+HRV,Europe & Central Asia,High income,Croatia,30,2023
+FIN,Europe & Central Asia,High income,Finland,80,2023
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",170,2023
+DNK,Europe & Central Asia,High income,Denmark,100,2023
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",350,2023
+AUT,Europe & Central Asia,High income,Austria,115,2023
+HUN,Europe & Central Asia,High income,Hungary,100,2023
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",290,2023
+NZL,East Asia & Pacific,High income,New Zealand,105,2023
+ALB,Europe & Central Asia,Upper middle income,Albania,560,2023
+CZE,Europe & Central Asia,High income,Czech Republic,140,2023
+GUY,Latin America & Caribbean,High income,Guyana,305,2023
+MDG,Sub-Saharan Africa,Low income,Madagascar,595,2023
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",385,2023
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,290,2023
+KHM,East Asia & Pacific,Lower middle income,Cambodia,200,2023
+ROU,Europe & Central Asia,High income,Romania,125,2023
+SVK,Europe & Central Asia,High income,Slovak Republic,95,2023
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,205,2023
+GRC,Europe & Central Asia,High income,Greece,150,2023
+BDI,Sub-Saharan Africa,Low income,Burundi,760,2023
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,280,2023
+ARG,Latin America & Caribbean,Upper middle income,Argentina,570,2023
+ETH,Sub-Saharan Africa,,Ethiopia,820,2023
+NPL,South Asia,Lower middle income,Nepal,15885,2023
+UGA,Sub-Saharan Africa,Low income,Uganda,755,2023
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",290,2023
+NOR,Europe & Central Asia,High income,Norway,95,2023
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,175,2023
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,840,2023
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,395,2023
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",3715,2023
+POL,Europe & Central Asia,High income,Poland,150,2023
+BRB,Latin America & Caribbean,High income,Barbados,360,2023
+MAC,East Asia & Pacific,High income,Macau SAR,135,2023
+SWE,Europe & Central Asia,High income,Sweden,110,2023
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,315,2023
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",660,2023
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",190,2023
+RWA,Sub-Saharan Africa,Low income,Rwanda,2065,2023
+PRT,Europe & Central Asia,High income,Portugal,260,2023
+NLD,Europe & Central Asia,High income,"Netherlands, The",330,2023
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,1590,2023
+PER,Latin America & Caribbean,Upper middle income,Peru,3180,2023
+LKA,South Asia,Lower middle income,Sri Lanka,5155,2023
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",930,2023
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",1375,2023
+BEL,Europe & Central Asia,High income,Belgium,675,2023
+SGP,East Asia & Pacific,High income,Singapore,410,2023
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",585,2023
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,855,2023
+CHL,Latin America & Caribbean,High income,Chile,1490,2023
+HTI,Latin America & Caribbean,Lower middle income,Haiti,2345,2023
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,1040,2023
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",995,2023
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,650,2023
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,825,2023
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,2530,2023
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",1405,2023
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,1185,2023
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,2100,2023
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",730,2023
+CHE,Europe & Central Asia,High income,Switzerland,405,2023
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",4000,2023
+AUS,East Asia & Pacific,High income,Australia,420,2023
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,770,2023
+MYS,East Asia & Pacific,Upper middle income,Malaysia,565,2023
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",4730,2023
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",1735,2023
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,4030,2023
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,7415,2023
+THA,East Asia & Pacific,Upper middle income,Thailand,2230,2023
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,1720,2023
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,9340,2023
+ITA,Europe & Central Asia,High income,Italy,1675,2023
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,3555,2023
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",5990,2023
+ESP,Europe & Central Asia,High income,Spain,2210,2023
+COL,Latin America & Caribbean,Upper middle income,Colombia,10450,2023
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,2055,2023
+BGD,South Asia,Lower middle income,Bangladesh,9480,2023
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,355,2023
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,7045,2023
+UKR,Europe & Central Asia,Upper middle income,Ukraine,6110,2023
+RUS,Europe & Central Asia,High income,Russia,1860,2023
+VEN,Latin America & Caribbean,,Venezuela,630,2023
+TUR,Europe & Central Asia,Upper middle income,Turkey,4170,2023
+PHL,East Asia & Pacific,Lower middle income,Philippines,33755,2023
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,2115,2023
+DEU,Europe & Central Asia,High income,Germany,2435,2023
+HKG,East Asia & Pacific,High income,Hong Kong SAR,7860,2023
+TWN,East Asia & Pacific,High income,Taiwan,3275,2023
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,4735,2023
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,14730,2023
+VNM,East Asia & Pacific,Lower middle income,Vietnam,10740,2023
+MEX,Latin America & Caribbean,Upper middle income,Mexico,11360,2023
+USA,North America,High income,United States of America,7705,2023
+JPN,East Asia & Pacific,High income,Japan,7830,2023
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,37485,2023
+BRA,Latin America & Caribbean,Upper middle income,Brazil,10365,2023
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,510,2023
+FRA,Europe & Central Asia,High income,France,15390,2023
+KOR,East Asia & Pacific,High income,"Korea, Republic of",10460,2023
+IND,South Asia,Lower middle income,India,278010,2023
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",58055,2023
+AND,Europe & Central Asia,High income,Andorra,--,2023
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,--,2023
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,10,2023
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,5,2023
+MDV,South Asia,Upper middle income,"Maldives, Republic of",5,2023
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,10,2023
+ABW,Latin America & Caribbean,High income,Aruba,--,2024
+BMU,North America,High income,Bermuda,15,2024
+CYM,Latin America & Caribbean,High income,Cayman Islands,--,2024
+LIE,Europe & Central Asia,High income,Liechtenstein,0,2024
+PYF,East Asia & Pacific,High income,French Polynesia,10,2024
+SXM,Latin America & Caribbean,High income,Sint-Maarten,--,2024
+VUT,East Asia & Pacific,Lower middle income,Vanuatu,5,2024
+COM,Sub-Saharan Africa,Lower middle income,Comoros,20,2024
+GNQ,Sub-Saharan Africa,Upper middle income,"Equatorial Guinea, Republic of",10,2024
+MCO,Europe & Central Asia,High income,Monaco,--,2024
+PNG,East Asia & Pacific,Lower middle income,Papua New Guinea,5,2024
+SLB,East Asia & Pacific,Lower middle income,Solomon Islands,--,2024
+SSD,Sub-Saharan Africa,Low income,"South Sudan, Republic of",15,2024
+SYC,Sub-Saharan Africa,High income,Seychelles,--,2024
+TJK,Europe & Central Asia,Lower middle income,Tajikistan,100,2024
+BRN,East Asia & Pacific,High income,Brunei,10,2024
+BTN,South Asia,Lower middle income,Bhutan,710,2024
+DMA,Latin America & Caribbean,Upper middle income,Dominica,70,2024
+GEO,Europe & Central Asia,Upper middle income,Georgia,50,2024
+LBR,Sub-Saharan Africa,Low income,Liberia,145,2024
+MNE,Europe & Central Asia,Upper middle income,"Montenegro, Republic of",50,2024
+NAM,Sub-Saharan Africa,Lower middle income,Namibia,10,2024
+NIC,Latin America & Caribbean,Lower middle income,Nicaragua,115,2024
+PRK,East Asia & Pacific,Low income,"Korea, People's Democratic Republic of",--,2024
+SUR,Latin America & Caribbean,Upper middle income,Surinam,15,2024
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Swaziland,10,2024
+TKM,Europe & Central Asia,Upper middle income,Turkmenistan,15,2024
+URY,Latin America & Caribbean,High income,Uruguay,25,2024
+ARM,Europe & Central Asia,Upper middle income,Armenia,90,2024
+CYP,Europe & Central Asia,High income,Cyprus,15,2024
+EST,Europe & Central Asia,High income,Estonia,15,2024
+FJI,East Asia & Pacific,Upper middle income,Fiji,45,2024
+KGZ,Europe & Central Asia,Lower middle income,Kyrgyzstan,115,2024
+LAO,East Asia & Pacific,Lower middle income,Laos,30,2024
+MKD,Europe & Central Asia,Upper middle income,Macedonia,35,2024
+MOZ,Sub-Saharan Africa,Low income,Mozambique,35,2024
+PRY,Latin America & Caribbean,Upper middle income,Paraguay,30,2024
+BIH,Europe & Central Asia,Upper middle income,Bosnia-Herzegovina,45,2024
+MWI,Sub-Saharan Africa,Low income,Malawi,50,2024
+QAT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Qatar,15,2024
+SLE,Sub-Saharan Africa,Low income,Sierra Leone,90,2024
+CAF,Sub-Saharan Africa,Low income,Central African Republic,40,2024
+DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,"Djibouti, Republic of",60,2024
+MMR,East Asia & Pacific,Lower middle income,Myanmar (Burma),820,2024
+SOM,Sub-Saharan Africa,Low income,"Somalia, Democratic Republic of",20,2024
+SVN,Europe & Central Asia,High income,Slovenia,5,2024
+,,,Other,--,2024
+BHR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Bahrain,25,2024
+GRD,Latin America & Caribbean,Upper middle income,Grenada,40,2024
+LVA,Europe & Central Asia,High income,Latvia,20,2024
+UZB,Europe & Central Asia,Lower middle income,Uzbekistan,525,2024
+,,,Country of Citizenship not stated,0,2024
+KNA,Latin America & Caribbean,High income,St. Kitts-Nevis,50,2024
+LUX,Europe & Central Asia,High income,Luxembourg,30,2024
+VCT,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,30,2024
+BGR,Europe & Central Asia,High income,Bulgaria,30,2024
+MRT,Sub-Saharan Africa,Lower middle income,Mauritania,110,2024
+XKX,Europe & Central Asia,Upper middle income,"Kosovo, Republic of",75,2024
+BLR,Europe & Central Asia,Upper middle income,Belarus,70,2024
+ISL,Europe & Central Asia,High income,Iceland,15,2024
+MDA,Europe & Central Asia,Upper middle income,Moldova,30,2024
+GMB,Sub-Saharan Africa,Low income,Gambia,145,2024
+LTU,Europe & Central Asia,High income,Lithuania,25,2024
+ARE,"Middle East, North Africa, Afghanistan & Pakistan",High income,United Arab Emirates,105,2024
+BOL,Latin America & Caribbean,Lower middle income,Bolivia,195,2024
+BWA,Sub-Saharan Africa,Upper middle income,"Botswana, Republic of",40,2024
+GTM,Latin America & Caribbean,Upper middle income,Guatemala,175,2024
+TCD,Sub-Saharan Africa,Low income,"Chad, Republic of",170,2024
+BLZ,Latin America & Caribbean,Upper middle income,Belize,65,2024
+AGO,Sub-Saharan Africa,Lower middle income,Angola,70,2024
+ATG,Latin America & Caribbean,High income,Antigua and Barbuda,40,2024
+AZE,Europe & Central Asia,Upper middle income,Azerbaijan,445,2024
+SDN,Sub-Saharan Africa,Low income,"Sudan, Democratic Republic of",170,2024
+CRI,Latin America & Caribbean,High income,Costa Rica,180,2024
+GAB,Sub-Saharan Africa,Upper middle income,Gabon Republic,185,2024
+HND,Latin America & Caribbean,Lower middle income,Honduras,285,2024
+,,,Stateless,225,2024
+CUB,Latin America & Caribbean,Upper middle income,Cuba,180,2024
+PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Palestinian Authority (Gaza/West Bank),200,2024
+ERI,Sub-Saharan Africa,Low income,Eritrea,50,2024
+LCA,Latin America & Caribbean,Upper middle income,St. Lucia,60,2024
+OMN,"Middle East, North Africa, Afghanistan & Pakistan",High income,Oman,60,2024
+AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Afghanistan,140,2024
+HRV,Europe & Central Asia,High income,Croatia,20,2024
+FIN,Europe & Central Asia,High income,Finland,75,2024
+SRB,Europe & Central Asia,Upper middle income,"Serbia, Republic of",140,2024
+DNK,Europe & Central Asia,High income,Denmark,90,2024
+PAN,Latin America & Caribbean,High income,"Panama, Republic of",285,2024
+AUT,Europe & Central Asia,High income,Austria,110,2024
+HUN,Europe & Central Asia,High income,Hungary,85,2024
+NER,Sub-Saharan Africa,Low income,"Niger, Republic of the",250,2024
+NZL,East Asia & Pacific,High income,New Zealand,95,2024
+ALB,Europe & Central Asia,Upper middle income,Albania,465,2024
+CZE,Europe & Central Asia,High income,Czech Republic,130,2024
+GUY,Latin America & Caribbean,High income,Guyana,220,2024
+MDG,Sub-Saharan Africa,Low income,Madagascar,640,2024
+MNG,East Asia & Pacific,Upper middle income,"Mongolia, People's Republic of",410,2024
+IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iraq,215,2024
+KHM,East Asia & Pacific,Lower middle income,Cambodia,180,2024
+ROU,Europe & Central Asia,High income,Romania,90,2024
+SVK,Europe & Central Asia,High income,Slovak Republic,80,2024
+ZMB,Sub-Saharan Africa,Lower middle income,Zambia,180,2024
+GRC,Europe & Central Asia,High income,Greece,130,2024
+BDI,Sub-Saharan Africa,Low income,Burundi,300,2024
+KWT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait,130,2024
+ARG,Latin America & Caribbean,Upper middle income,Argentina,365,2024
+ETH,Sub-Saharan Africa,,Ethiopia,455,2024
+NPL,South Asia,Lower middle income,Nepal,9415,2024
+UGA,Sub-Saharan Africa,Low income,Uganda,675,2024
+COG,Sub-Saharan Africa,Lower middle income,"Congo, People's Republic of the",305,2024
+NOR,Europe & Central Asia,High income,Norway,75,2024
+YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Yemen,180,2024
+DOM,Latin America & Caribbean,Upper middle income,Dominican Republic,525,2024
+SLV,Latin America & Caribbean,Upper middle income,El Salvador,280,2024
+GIN,Sub-Saharan Africa,Lower middle income,"Guinea, Republic of",4220,2024
+POL,Europe & Central Asia,High income,Poland,140,2024
+BRB,Latin America & Caribbean,High income,Barbados,265,2024
+MAC,East Asia & Pacific,High income,Macau SAR,90,2024
+SWE,Europe & Central Asia,High income,Sweden,105,2024
+SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Syria,250,2024
+TTO,Latin America & Caribbean,High income,"Trinidad and Tobago, Republic of",525,2024
+IRL,Europe & Central Asia,High income,"Ireland, Republic of",135,2024
+RWA,Sub-Saharan Africa,Low income,Rwanda,1030,2024
+PRT,Europe & Central Asia,High income,Portugal,210,2024
+NLD,Europe & Central Asia,High income,"Netherlands, The",225,2024
+JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Jordan,995,2024
+PER,Latin America & Caribbean,Upper middle income,Peru,2590,2024
+LKA,South Asia,Lower middle income,Sri Lanka,3500,2024
+ZAF,Sub-Saharan Africa,Upper middle income,"South Africa, Republic of",755,2024
+TGO,Sub-Saharan Africa,Low income,"Togo, Republic of",980,2024
+BEL,Europe & Central Asia,High income,Belgium,620,2024
+SGP,East Asia & Pacific,High income,Singapore,335,2024
+TZA,Sub-Saharan Africa,Lower middle income,"Tanzania, United Republic of",385,2024
+ZWE,Sub-Saharan Africa,Lower middle income,Zimbabwe,815,2024
+CHL,Latin America & Caribbean,High income,Chile,935,2024
+HTI,Latin America & Caribbean,Lower middle income,Haiti,1920,2024
+BFA,Sub-Saharan Africa,Low income,Burkina-Faso,1105,2024
+MLI,Sub-Saharan Africa,Low income,"Mali, Republic of",790,2024
+ISR,"Middle East, North Africa, Afghanistan & Pakistan",High income,Israel,695,2024
+MUS,Sub-Saharan Africa,Upper middle income,Mauritius,625,2024
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,1775,2024
+BEN,Sub-Saharan Africa,Lower middle income,"Benin, Republic of",1130,2024
+LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Lebanon,890,2024
+KEN,Sub-Saharan Africa,Lower middle income,Kenya,1790,2024
+BHS,Latin America & Caribbean,High income,"Bahama Islands, The",415,2024
+CHE,Europe & Central Asia,High income,Switzerland,375,2024
+COD,Sub-Saharan Africa,Low income,"Congo, Democratic Republic of the",2335,2024
+AUS,East Asia & Pacific,High income,Australia,290,2024
+KAZ,Europe & Central Asia,Upper middle income,Kazakhstan,570,2024
+MYS,East Asia & Pacific,Upper middle income,Malaysia,400,2024
+CIV,Sub-Saharan Africa,Lower middle income,"Ivory Coast, Republic of",4480,2024
+IDN,East Asia & Pacific,Upper middle income,"Indonesia, Republic of",1430,2024
+SEN,Sub-Saharan Africa,Lower middle income,Senegal,5155,2024
+GHA,Sub-Saharan Africa,Lower middle income,Ghana,7770,2024
+THA,East Asia & Pacific,Upper middle income,Thailand,1555,2024
+EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Egypt,1610,2024
+DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algeria,9245,2024
+ITA,Europe & Central Asia,High income,Italy,1305,2024
+TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunisia,3355,2024
+CMR,Sub-Saharan Africa,Lower middle income,"Cameroon, Federal Republic of",4845,2024
+ESP,Europe & Central Asia,High income,Spain,1975,2024
+COL,Latin America & Caribbean,Upper middle income,Colombia,6760,2024
+JAM,Latin America & Caribbean,Upper middle income,Jamaica,1615,2024
+BGD,South Asia,Lower middle income,Bangladesh,6515,2024
+LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Libya,210,2024
+MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Morocco,6120,2024
+UKR,Europe & Central Asia,Upper middle income,Ukraine,5025,2024
+RUS,Europe & Central Asia,High income,Russia,1405,2024
+VEN,Latin America & Caribbean,,Venezuela,450,2024
+TUR,Europe & Central Asia,Upper middle income,Turkey,2450,2024
+PHL,East Asia & Pacific,Lower middle income,Philippines,24700,2024
+GBR,Europe & Central Asia,High income,United Kingdom and Overseas Territories,1405,2024
+DEU,Europe & Central Asia,High income,Germany,2285,2024
+HKG,East Asia & Pacific,High income,Hong Kong SAR,5345,2024
+TWN,East Asia & Pacific,High income,Taiwan,2975,2024
+PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Pakistan,3905,2024
+IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Iran,10920,2024
+VNM,East Asia & Pacific,Lower middle income,Vietnam,10520,2024
+MEX,Latin America & Caribbean,Upper middle income,Mexico,8345,2024
+USA,North America,High income,United States of America,6815,2024
+JPN,East Asia & Pacific,High income,Japan,6155,2024
+NGA,Sub-Saharan Africa,Lower middle income,Nigeria,26480,2024
+BRA,Latin America & Caribbean,Upper middle income,Brazil,7010,2024
+SAU,"Middle East, North Africa, Afghanistan & Pakistan",High income,Saudi Arabia,610,2024
+FRA,Europe & Central Asia,High income,France,13715,2024
+KOR,East Asia & Pacific,High income,"Korea, Republic of",8465,2024
+IND,South Asia,Lower middle income,India,188280,2024
+CHN,East Asia & Pacific,Upper middle income,"China, People's Republic of",56280,2024
+AND,Europe & Central Asia,High income,Andorra,--,2024
+CPV,Sub-Saharan Africa,Upper middle income,Cape Verde Islands,--,2024
+GNB,Sub-Saharan Africa,Low income,Guinea-Bissau,5,2024
+LSO,Sub-Saharan Africa,Lower middle income,Lesotho,--,2024
+MDV,South Asia,Upper middle income,"Maldives, Republic of",5,2024
+MLT,"Middle East, North Africa, Afghanistan & Pakistan",High income,Malta,5,2024
