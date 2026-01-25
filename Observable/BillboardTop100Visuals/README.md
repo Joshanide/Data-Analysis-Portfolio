@@ -8,7 +8,9 @@ These visualizations use historical Billboard Hot 100 data, including weekly cha
 ## Analysis Focus
 I was interested in understanding how artists perform on the Billboard Hot 100 over time, with particular attention to chart longevity, sustained success at top positions, and how patterns of chart performance have changed across eras.
 
-## Main Insights
+## Visualizations
+
+### Main Insights
 
 ### Top Artists by Time at #1
 This horizontal bar chart ranks artists by the total number of weeks their songs spent at the #1 position on the Billboard Hot 100.
@@ -25,7 +27,7 @@ Rather than focusing on individual songs, the visualization highlights broader t
 <img width="797" height="699" alt="weeksAt1vsYear" src="https://github.com/user-attachments/assets/66f3ac52-202b-4f71-981b-7a7018b87696" />
 
 
-## Additional Exploration
+### Additional Exploration
 
 ### Exploring Audio Trends Across Decades
 This radar chart visualizes energy, danceability, and happiness for songs on the Billboard Hot 100 across different decades.
